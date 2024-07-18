@@ -13,7 +13,7 @@ const router = createBrowserRouter([
     childern: [
       {
         index: true,
-        element:<p>Start</p>
+        element:<p>Content</p>
       }
     ]
   }
